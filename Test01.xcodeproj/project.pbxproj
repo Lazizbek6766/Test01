@@ -7,18 +7,38 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		EA98632B2A971E9200D53BAE /* TransitionBut.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA98632A2A971E9200D53BAE /* TransitionBut.swift */; };
+		EA98632D2A97268E00D53BAE /* SheetsBut.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA98632C2A97268E00D53BAE /* SheetsBut.swift */; };
+		EAAB113B2A948498005F1CA3 /* TernaryBut.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAAB113A2A948498005F1CA3 /* TernaryBut.swift */; };
+		EAAB113D2A948813005F1CA3 /* AnimationsBut.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAAB113C2A948813005F1CA3 /* AnimationsBut.swift */; };
+		EAB453EC2A96170D00A3F2B6 /*  AnimationTimingBut.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAB453EB2A96170D00A3F2B6 /*  AnimationTimingBut.swift */; };
+		EAB453EE2A9619B100A3F2B6 /* AnimationBut.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAB453ED2A9619B100A3F2B6 /* AnimationBut.swift */; };
 		EAFE1BD62A932DBA00D2C17E /* Test01App.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAFE1BD52A932DBA00D2C17E /* Test01App.swift */; };
 		EAFE1BD82A932DBA00D2C17E /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAFE1BD72A932DBA00D2C17E /* ContentView.swift */; };
 		EAFE1BDA2A932DBB00D2C17E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EAFE1BD92A932DBB00D2C17E /* Assets.xcassets */; };
 		EAFE1BDD2A932DBB00D2C17E /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EAFE1BDC2A932DBB00D2C17E /* Preview Assets.xcassets */; };
+		EAFE1BE42A933D6600D2C17E /* StateBut.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAFE1BE32A933D6600D2C17E /* StateBut.swift */; };
+		EAFE1BE62A93697300D2C17E /* ExtractingFunctionsAndSubviews.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAFE1BE52A93697300D2C17E /* ExtractingFunctionsAndSubviews.swift */; };
+		EAFE1BE82A93739400D2C17E /* ExtractSubviewsBut.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAFE1BE72A93739400D2C17E /* ExtractSubviewsBut.swift */; };
+		EAFE1BEA2A938D0B00D2C17E /* BindingBut.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAFE1BE92A938D0B00D2C17E /* BindingBut.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		EA98632A2A971E9200D53BAE /* TransitionBut.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TransitionBut.swift; sourceTree = "<group>"; };
+		EA98632C2A97268E00D53BAE /* SheetsBut.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SheetsBut.swift; sourceTree = "<group>"; };
+		EAAB113A2A948498005F1CA3 /* TernaryBut.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TernaryBut.swift; sourceTree = "<group>"; };
+		EAAB113C2A948813005F1CA3 /* AnimationsBut.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationsBut.swift; sourceTree = "<group>"; };
+		EAB453EB2A96170D00A3F2B6 /*  AnimationTimingBut.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = " AnimationTimingBut.swift"; sourceTree = "<group>"; };
+		EAB453ED2A9619B100A3F2B6 /* AnimationBut.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationBut.swift; sourceTree = "<group>"; };
 		EAFE1BD22A932DBA00D2C17E /* Test01.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Test01.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		EAFE1BD52A932DBA00D2C17E /* Test01App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Test01App.swift; sourceTree = "<group>"; };
 		EAFE1BD72A932DBA00D2C17E /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		EAFE1BD92A932DBB00D2C17E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		EAFE1BDC2A932DBB00D2C17E /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		EAFE1BE32A933D6600D2C17E /* StateBut.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StateBut.swift; sourceTree = "<group>"; };
+		EAFE1BE52A93697300D2C17E /* ExtractingFunctionsAndSubviews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtractingFunctionsAndSubviews.swift; sourceTree = "<group>"; };
+		EAFE1BE72A93739400D2C17E /* ExtractSubviewsBut.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtractSubviewsBut.swift; sourceTree = "<group>"; };
+		EAFE1BE92A938D0B00D2C17E /* BindingBut.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BindingBut.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +73,16 @@
 			children = (
 				EAFE1BD52A932DBA00D2C17E /* Test01App.swift */,
 				EAFE1BD72A932DBA00D2C17E /* ContentView.swift */,
+				EAFE1BE32A933D6600D2C17E /* StateBut.swift */,
+				EAAB113A2A948498005F1CA3 /* TernaryBut.swift */,
+				EAFE1BE52A93697300D2C17E /* ExtractingFunctionsAndSubviews.swift */,
+				EAFE1BE72A93739400D2C17E /* ExtractSubviewsBut.swift */,
+				EAAB113C2A948813005F1CA3 /* AnimationsBut.swift */,
+				EAB453EB2A96170D00A3F2B6 /*  AnimationTimingBut.swift */,
+				EAFE1BE92A938D0B00D2C17E /* BindingBut.swift */,
+				EAB453ED2A9619B100A3F2B6 /* AnimationBut.swift */,
+				EA98632A2A971E9200D53BAE /* TransitionBut.swift */,
+				EA98632C2A97268E00D53BAE /* SheetsBut.swift */,
 				EAFE1BD92A932DBB00D2C17E /* Assets.xcassets */,
 				EAFE1BDB2A932DBB00D2C17E /* Preview Content */,
 			);
@@ -137,8 +167,18 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EAB453EE2A9619B100A3F2B6 /* AnimationBut.swift in Sources */,
+				EAB453EC2A96170D00A3F2B6 /*  AnimationTimingBut.swift in Sources */,
+				EAFE1BE62A93697300D2C17E /* ExtractingFunctionsAndSubviews.swift in Sources */,
+				EAAB113B2A948498005F1CA3 /* TernaryBut.swift in Sources */,
+				EAFE1BE82A93739400D2C17E /* ExtractSubviewsBut.swift in Sources */,
+				EA98632D2A97268E00D53BAE /* SheetsBut.swift in Sources */,
 				EAFE1BD82A932DBA00D2C17E /* ContentView.swift in Sources */,
+				EAAB113D2A948813005F1CA3 /* AnimationsBut.swift in Sources */,
+				EAFE1BEA2A938D0B00D2C17E /* BindingBut.swift in Sources */,
 				EAFE1BD62A932DBA00D2C17E /* Test01App.swift in Sources */,
+				EA98632B2A971E9200D53BAE /* TransitionBut.swift in Sources */,
+				EAFE1BE42A933D6600D2C17E /* StateBut.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
